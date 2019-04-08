@@ -2,7 +2,7 @@
 
 
 
-def speak_to_grandma(phrase)
+def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
     if phrase == phrase
       puts "I LOVE YOU TOO PUMPKIN!"
     elsif phrase == phrase.downcase
